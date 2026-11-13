@@ -22,3 +22,4 @@ branches into the main branch.
 6. Share the repository link.
 7. Add the screenshots with Git workflow, pull request page to
 the repository
+<img width="516" height="384" alt="image" src="https://github.com/user-attachments/assets/23be34a0-b41e-4f50-bd5b-017ba08b07bc" />
